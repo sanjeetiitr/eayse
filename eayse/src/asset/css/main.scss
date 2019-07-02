@@ -1,0 +1,114 @@
+.login-ey {
+  height: webkit-fill-available;
+  background-color: #F0F5F9 !important;
+  .login-p1-ey {
+    padding-top: 14rem;
+    h1 {
+      font-size: 3rem;
+      line-height: 3.0625rem;
+      color: #000000;
+      font-weight: 800;
+    }
+    h4 {
+      font-size: 1rem;
+    }
+  }
+  .login-sub-ey {
+    padding-top: 12rem;
+  }
+}
+
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
+
+
+.login-p2-ey{
+    background-color: #FFFFFF !important;
+    // padding: 2rem !important;
+    box-shadow: 0 0 20px 0 rgba(0,8,78,0.11);
+    max-width: 100% !important;
+    border-radius: .5rem;
+    
+    h3{
+        font-weight: 700;
+        font-size: 1.4rem;
+        padding: 2rem 2rem 0rem 2rem!important; 
+    }
+    .ant-form-item{
+        padding: .5rem 2rem 0 2rem!important; 
+        input{
+            height: 2.5rem !important;
+        }
+        .fp-lg-ey{
+            padding: 0rem 0rem 0rem 2rem!important; 
+        }
+    }
+
+}
+
+.btn-lg-ey{
+    height: 3rem !important;
+    border-top-right-radius: 0 !important;
+    border-top-left-radius: 0 !important;
+    background-color: #0014C4 !important;
+}
+.ant-form-item{
+    margin-bottom: 0px !important;
+}
+
+.check-list-ey{
+  height: auto;
+  background-color: #FFFFFF;
+  margin-top: 3rem;
+  border-radius: .5rem;
+  h2{
+    padding: 2rem 2rem 0rem 2rem;
+    font-weight: 800;
+  }
+  h4{
+    font-weight: 400;
+    padding: 0rem 2rem 2rem 2rem;
+  }
+  .btn-check-ey{
+    width: 100%;
+    border-top-right-radius: 0 !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: .5rem !important;
+    border-bottom-right-radius: .5rem !important;
+    background-color: #0014C4 !important;
+    border: none;
+    color: white;
+    height: 4rem;
+  }
+}
+
+.check-ind-ey{
+  border: 1px solid #979797 ;
+  max-height: 75vh;
+  h4{
+    padding: 1rem 2rem 0rem 2rem !important;
+    font-weight: 700 !important
+  }
+  h6{
+    padding: 1rem 6rem 1rem 2rem !important;
+  }
+}
+
+.ant-badge{
+  float: right;
+  padding-right: 2rem !important;
+  sup{
+    margin-right: 2rem !important;
+  }
+}
+
+.act-btn-ey{
+  padding: 0rem 0rem 1rem 2rem;
+}
